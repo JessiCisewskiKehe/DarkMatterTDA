@@ -23,7 +23,7 @@ If you would like additional background on the math/statistics, please see the f
 Berry, E., Chen, Y.C., Cisewski-Kehe, J. and Fasy, B.T., 2020. Functional summaries of persistence diagrams. Journal of Applied and Computational Topology, 4(2), pp.211-262.
 
 
-If you come across any issues or bugs, please contact Jessi Cisewski-Kehe at jjkehe@wsic.edu.
+If you come across any issues or bugs, please contact Jessi Cisewski-Kehe at jjkehe@wisc.edu.
 
 
 ######################################## Data and Summaries
